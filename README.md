@@ -1,5 +1,6 @@
 # RestServiceExample
 
+script.sql file contains the database structure creation script.
 
 Curl example requests to test:
 
