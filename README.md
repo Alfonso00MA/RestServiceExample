@@ -2,6 +2,8 @@
 
 script.sql file contains the database structure creation script.
 
+In Application.java -> Run As -> Java Application
+
 Curl example requests to test:
 
 curl -X POST -H 'Content-Type: application/json' -i http://localhost:8080/author --data '{"name":"Author 1 Name","sex":"M"}'
